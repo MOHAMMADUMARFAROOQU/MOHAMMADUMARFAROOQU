@@ -1,10 +1,55 @@
-- 👋 Hi I’m @MOHAMMADUMARFAROOQU
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MOHAMMADUMARFAROOQU/MOHAMMADUMARFAROOQU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html> 
+ <html> 
+ <head> 
+ <style> 
+ body { 
+   background-color: black; 
+ } 
+  
+ h1 { 
+   color: red; 
+   text-align: center; 
+ } 
+  
+ p { 
+   color: white; 
+   font-family: verdana; 
+   font-size: 20px; 
+ } 
+ img { 
+   border: 1px solid #ddd; 
+   border-radius: 4px; 
+   padding: 5px; 
+   width: 150px; 
+ } 
+ a:link { 
+   background-color: yellow; 
+ } 
+  
+ a:visited { 
+   background-color: cyan; 
+ } 
+  
+ a:hover { 
+   background-color: lightgreen; 
+ } 
+  
+ a:active { 
+   background-color: hotpink; 
+ }  
+ </style> 
+ </head> 
+ <body> 
+   <h1>About Me</h1> 
+   <p>Hi, <br>I am Mohammad Umar Farooque , <br>  
+     Diploma in computer science engineering,<br>  
+     a keen interest in Web Development as well as Python programming and always eager to leam new technologies. <br> 
+     I have detailed understanding of complex, <br>  
+     programming languages and considerations. <br> 
+     and making an innovative approach to actualizing organizational marketing plans. <br> 
+     I do have an experience in working on multiple projects, <br> 
+     which are focused on python/Web Development.</p> 
+     <img src="/task-1/my pic.jpg" alt="my pic" width="200" height="200"> 
+    <a href="/task-1/my pic.jpg"><br>This is my pic</a> 
+ </body> 
+ </html>
