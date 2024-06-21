@@ -29,7 +29,10 @@
         <!-- About section-->
          <div class="about" >
             <h3 id about_heading>About</h3>
-            <p id="about_para">Hi! My name is [MOHAMMAD UMAR FAROOQUE]..........</p>
+            <p id="about_para">Hi! My name is : Mohammad Umar Farooque <br>
+    Roll no : 22DPCS037HY<br>
+    Enrollment no : A221066 <br>
+    I am student of Computer science engineering.........</p>
          </div>
 
         <!-- interest section -->
@@ -42,7 +45,7 @@
          <div class="hobbies">
             <h3 id="hobbies_heading">Hobies</h3>
             <ul id="hobbies_item">
-                <li>Playing guaiter</li>
+                <li>Playing chess</li>
                 <li>photograph</li>
                 <li>Traveling</li>
             </ul>
@@ -72,7 +75,7 @@
                 <tbody>
                     <tr>
                         <td>Matric</td>
-                        <td>C.S+2 HIGH SCHOOL</td>
+                        <td>R.K HIGH SCHOOL SAHILA RAMPUR HATHAURI MUZAFFARPUR</td>
                         <td>2021</td>
                     </tr>
                     <tr>
