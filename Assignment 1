@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1> welcome to my webpage</h1>
+        <img src="https://picsum.photos/200/300?random=1">
+    </div>
+    <h1>About Me</h1>
+    <p>Hii! My name is MOHAMMAD UMAR FAROOQUE .I am a Student of COMPUTER SCIENCE ENGINGEER based in Hyderbad</p>
+    <h1>My Interest</h1>
+    <p> i enjoy coding redding and spending time outdoors</p>
+
+   <h1>Hobbies</h1>
+   <ol>
+    <li>studey</li>
+    <li>game</li>
+    <li>Watching tv</li>
+   </ol>
+   <h1>Skills</h1>
+   <ol type="1">
+    <li>webdevlopment</li>
+    <li>graphic design</li>
+    <li>project manegement</li>
+    </ol>
+    <h1> Educational Qualifivations</h1>
+    <table>
+        <tr>
+            <th>Degree</th>
+            <th>instrunction</th>
+            <th>year</th>
+        </tr>
+        <tr>
+            <td>Matrix</td>
+            <td>R.K HIGH SCHOOL HATHAURI</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>Diploma in computer sceince</td>
+            <td>MANUU</td>
+            <td>2022-25</td>
+        </tr>
+    </table>
+    
+    <h1>contact number +91 9310421933</h1>
+    <!--<h3>you can reach me at</h3>-->
+   
+    
+</body>
+</html>
